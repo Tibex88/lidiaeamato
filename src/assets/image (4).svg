@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39.577" height="29.961" viewBox="0 0 39.577 29.961">
+    <g fill="none" fill-rule="evenodd" stroke="#1E1E1E" stroke-width="2.5" transform="translate(0 1.25)" style="--darkreader-inline-stroke: #d5d1cc;" data-darkreader-inline-stroke="">
+        <polygon points="35.011 19.119 11.88 19.119 8.621 6.373 38 6.373"></polygon>
+        <polyline points="8.64 5.889 6.868 0 0 0"></polyline>
+        <path stroke-linejoin="round" d="M16.8746142,25.4515576 C18.8635883,25.4293018 20.4940123,23.7988778 20.5162682,21.8099037 C20.538524,19.8209296 18.9441839,18.2265895 16.9552098,18.2488454 C14.9662357,18.2711012 13.3358117,19.9015252 13.3135559,21.8904993" transform="rotate(135 16.915 21.85)"></path>
+        <path stroke-linejoin="round" d="M30.228583,25.4515576 C32.2175571,25.4293018 33.8479811,23.7988778 33.8702369,21.8099037 C33.8924928,19.8209296 32.2981527,18.2265895 30.3091786,18.2488454 C28.3202045,18.2711012 26.6897805,19.9015252 26.6675247,21.8904993" transform="rotate(135 30.269 21.85)"></path>
+    </g>
+</svg>
